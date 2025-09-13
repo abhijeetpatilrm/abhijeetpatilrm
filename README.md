@@ -16,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpatilrm&layout=compact&theme=transparent&hide_border=true)
 
-![Statscard](https://github-readme-stats.vercel.app/api?username=abhijeetpatilrm&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+![Statscard](https://github-readme-stats.vercel.app/api?username=abhijeetpatilrm&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_owner=true)
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetpatilrm&theme=transparent&hide_border=true)
 
