@@ -1,5 +1,5 @@
 <a href="https://abhijeetpatil-portfolio.netlify.app/" target="_blank" title="My Portfolio" alt="My Portfolio">
- <img src="https://raw.githubusercontent.com/AbhijeetPatil/abhijeetpatilrm/main/Screenshot%202025-09-13%20185727.png" width="100%" height="auto" />
+  <img src="https://raw.githubusercontent.com/AbhijeetPatil/abhijeetpatilrm/main/Screenshot%202025-09-13%20185727.png" width="100%" height="auto" alt="Portfolio Screenshot" />
 </a>
 
 <hr/>
