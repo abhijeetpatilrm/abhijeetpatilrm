@@ -127,7 +127,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetPatil&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijeetpatilrm&theme=github&hide_border=true&area=true)
 
 </div>
 
