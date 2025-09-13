@@ -1,6 +1,7 @@
-<a href="https://abhijeetpatil-portfolio.netlify.app/" target="_blank" title="My Portfolio" alt="My Portfolio">
-  <img src="https://raw.githubusercontent.com/AbhijeetPatil/abhijeetpatilrm/main/Screenshot%202025-09-13%20185727.png" width="100%" height="auto" alt="Portfolio Screenshot" />
-</a>
+<div align="center">
+  <h2>🚀 Welcome to My GitHub Profile!</h2>
+  <p>Check out my portfolio: <a href="https://abhijeetpatil-portfolio.netlify.app/" target="_blank">abhijeetpatil-portfolio.netlify.app</a></p>
+</div>
 
 <hr/>
 
