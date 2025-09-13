@@ -2,7 +2,6 @@
  <img src="https://github.com/abhijeetpatilrm/abhijeetpatilrm/blob/main/Screenshot%202025-09-13%20185727.png?raw=true" width="100%" height="auto" alt="Portfolio Screenshot" />
 </a>
 
-
 <hr/>
 
 <div align="center">
@@ -12,14 +11,14 @@
     <a href="mailto:abhijeetpatilhnl@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"></a>
 </div>
 
-## 📈 Statistics
+## 📈 GitHub Activity
 <div align="center">
 
-![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=AbhijeetPatil&layout=compact&theme=transparent&disable_animations=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpatilrm&layout=compact&theme=transparent&hide_border=true)
 
-![Statscard](https://git-stats-plum.vercel.app/api?username=AbhijeetPatil&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
+![Statscard](https://github-readme-stats.vercel.app/api?username=abhijeetpatilrm&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
   
-![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=AbhijeetPatil&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=bebec3&disable_animations=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetpatilrm&theme=transparent&hide_border=true)
 
 </div>
 
@@ -44,10 +43,10 @@
         <a href="https://nextjs.org/docs/getting-started" title="NextJS"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="40" height="40"/></a>&emsp;
         <a href="https://astro.build/" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" width="40" height="40"/></a>&emsp;
         <a href="https://tailwindcss.com/docs/installation" title="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40"/></a>&emsp;
-        <a href="https://preactjs.com/" title="Preact.js"><img src="https://raw.githubusercontent.com/AbhijeetPatil/AbhijeetPatil/main/icons/preactjs.svg" alt="Preact.js" width="40" height="40"/></a>&emsp;
-        <a href="https://d3js.org/" title="D3.js"><img src="https://raw.githubusercontent.com/AbhijeetPatil/AbhijeetPatil/main/icons/d3js.svg" alt="D3.js" width="40" height="40"/></a>&emsp;
-        <a href="https://greensock.com/docs/" title="GSAP"><img src="https://raw.githubusercontent.com/AbhijeetPatil/AbhijeetPatil/main/icons/gsap.svg" alt="GSAP" width="40" height="40"/></a>&emsp;
-        <a href="https://framer.com/motion/" title="Motion"><img src="https://raw.githubusercontent.com/AbhijeetPatil/AbhijeetPatil/main/icons/framermotion.svg" alt="Motion" width="40" height="40"/></a>&emsp;
+        <a href="https://preactjs.com/" title="Preact.js"><img src="https://skillicons.dev/icons?i=preact" alt="Preact.js" width="40" height="40"/></a>&emsp;
+        <a href="https://d3js.org/" title="D3.js"><img src="https://skillicons.dev/icons?i=d3" alt="D3.js" width="40" height="40"/></a>&emsp;
+        <a href="https://greensock.com/docs/" title="GSAP"><img src="https://skillicons.dev/icons?i=gsap" alt="GSAP" width="40" height="40"/></a>&emsp;
+        <a href="https://framer.com/motion/" title="Motion"><img src="https://skillicons.dev/icons?i=framer" alt="Motion" width="40" height="40"/></a>&emsp;
     </div>
 </div>
 <br/>
@@ -57,8 +56,6 @@
     <div>
         <a href="https://nodejs.org/en/docs/" title="NodeJS"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40" height="40"/></a>&emsp;
         <a href="https://expressjs.com/en/starter/installing.html" title="Express"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/></a>&emsp;
-        <a href="https://www.php.net/docs.php" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>&emsp;
-        <a href="https://firebase.google.com/docs" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/></a>&emsp;
         <a href="https://developers.google.com" title="Google API"><img src="https://skillicons.dev/icons?i=googlecloud" alt="Google API" width="40" height="40"/></a>&emsp;
         <a href="https://next-auth.js.org/getting-started/introduction" title="Auth.js"><img src="https://raw.githubusercontent.com/AbhijeetPatil/AbhijeetPatil/main/icons/nextauth.svg" alt="Auth.js" width="40" height="40"/></a>&emsp;
     </div>
@@ -70,8 +67,6 @@
     <div>
         <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>&emsp;
         <a href="https://dev.mysql.com/doc/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>&emsp;
-        <a href="https://firebase.google.com/docs/firestore" title="Firebase Firestore"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Firestore" width="40" height="40"/></a>&emsp;
-        <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/></a>&emsp;
         <a href="https://www.prisma.io/docs/" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40"/></a>&emsp;
     </div>
 </div>
@@ -81,9 +76,9 @@
 <h3>State Management & Utilities</h3>
     <div>
         <a href="https://redux.js.org/introduction/getting-started" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/></a>&emsp;
-        <a href="https://github.com/pmndrs/zustand" title="Zustand"><img src="https://raw.githubusercontent.com/AbhijeetPatil/AbhijeetPatil/main/icons/zustand.webp" alt="Zustand" width="40" height="40"/></a>&emsp;
-        <a href="https://github.com/nanostores/nanostores" title="Nanostores"><img src="https://raw.githubusercontent.com/AbhijeetPatil/AbhijeetPatil/main/icons/nanostores.svg" alt="Nanostores" width="40" height="40"/></a>&emsp;
-        <a href="https://tanstack.com/query/v4/docs/overview" title="TS Query"><img src="https://raw.githubusercontent.com/AbhijeetPatil/AbhijeetPatil/main/icons/reactquery.svg" alt="TS Query" width="40" height="40"/></a>&emsp;
+        <a href="https://github.com/pmndrs/zustand" title="Zustand"><img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" width="40" height="40"/></a>&emsp;
+        <a href="https://github.com/nanostores/nanostores" title="Nanostores"><img src="https://skillicons.dev/icons?i=nanostores" alt="Nanostores" width="40" height="40"/></a>&emsp;
+        <a href="https://tanstack.com/query/v4/docs/overview" title="TS Query"><img src="https://skillicons.dev/icons?i=reactquery" alt="TS Query" width="40" height="40"/></a>&emsp;
     </div>
 </div>
 <br/>
@@ -107,7 +102,7 @@
         <a href="https://code.visualstudio.com/docs" title="VScode"><img src="https://skillicons.dev/icons?i=vscode" alt="VScode" width="40" height="40"/></a>&emsp;
         <a href="https://www.figma.com/support/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>&emsp;
         <a href="https://vitejs.dev/guide/" title="ViteJS"><img src="https://skillicons.dev/icons?i=vite" alt="ViteJS" width="40" height="40"/></a>&emsp;
-        <a href="https://socket.io/docs/v4/" title="SocketIO"><img src="https://raw.githubusercontent.com/AbhijeetPatil/AbhijeetPatil/main/icons/socketio.svg" alt="SocketIO" width="40" height="40"/></a>&emsp;
+        <a href="https://socket.io/docs/v4/" title="SocketIO"><img src="https://skillicons.dev/icons?i=socketio" alt="SocketIO" width="40" height="40"/></a>&emsp;
         <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>&emsp;
     </div>
 </div>
