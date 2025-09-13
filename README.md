@@ -43,10 +43,10 @@
         <a href="https://nextjs.org/docs/getting-started" title="NextJS"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="40" height="40"/></a>&emsp;
         <a href="https://astro.build/" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" width="40" height="40"/></a>&emsp;
         <a href="https://tailwindcss.com/docs/installation" title="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40"/></a>&emsp;
-        <a href="https://preactjs.com/" title="Preact.js"><img src="https://skillicons.dev/icons?i=preact" alt="Preact.js" width="40" height="40"/></a>&emsp;
-        <a href="https://d3js.org/" title="D3.js"><img src="https://skillicons.dev/icons?i=d3" alt="D3.js" width="40" height="40"/></a>&emsp;
-        <a href="https://greensock.com/docs/" title="GSAP"><img src="https://skillicons.dev/icons?i=gsap" alt="GSAP" width="40" height="40"/></a>&emsp;
-        <a href="https://framer.com/motion/" title="Motion"><img src="https://skillicons.dev/icons?i=framer" alt="Motion" width="40" height="40"/></a>&emsp;
+        <a href="https://preactjs.com/" title="Preact.js"><img src="https://img.shields.io/badge/Preact.js-673AB8?style=flat-square&logo=preact&logoColor=white" alt="Preact.js" /></a>&emsp;
+        <a href="https://d3js.org/" title="D3.js"><img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" /></a>&emsp;
+        <a href="https://greensock.com/docs/" title="GSAP"><img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" /></a>&emsp;
+        <a href="https://framer.com/motion/" title="Motion"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" /></a>&emsp;
     </div>
 </div>
 <br/>
@@ -76,9 +76,9 @@
 <h3>State Management & Utilities</h3>
     <div>
         <a href="https://redux.js.org/introduction/getting-started" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/></a>&emsp;
-        <a href="https://github.com/pmndrs/zustand" title="Zustand"><img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" width="40" height="40"/></a>&emsp;
-        <a href="https://github.com/nanostores/nanostores" title="Nanostores"><img src="https://skillicons.dev/icons?i=nanostores" alt="Nanostores" width="40" height="40"/></a>&emsp;
-        <a href="https://tanstack.com/query/v4/docs/overview" title="TS Query"><img src="https://skillicons.dev/icons?i=reactquery" alt="TS Query" width="40" height="40"/></a>&emsp;
+        <a href="https://github.com/pmndrs/zustand" title="Zustand"><img src="https://img.shields.io/badge/Zustand-FF6B6B?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" /></a>&emsp;
+        <a href="https://github.com/nanostores/nanostores" title="Nanostores"><img src="https://img.shields.io/badge/Nanostores-FF6B6B?style=flat-square&logo=nanostores&logoColor=white" alt="Nanostores" /></a>&emsp;
+        <a href="https://tanstack.com/query/v4/docs/overview" title="TS Query"><img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TS Query" /></a>&emsp;
     </div>
 </div>
 <br/>
@@ -102,7 +102,7 @@
         <a href="https://code.visualstudio.com/docs" title="VScode"><img src="https://skillicons.dev/icons?i=vscode" alt="VScode" width="40" height="40"/></a>&emsp;
         <a href="https://www.figma.com/support/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>&emsp;
         <a href="https://vitejs.dev/guide/" title="ViteJS"><img src="https://skillicons.dev/icons?i=vite" alt="ViteJS" width="40" height="40"/></a>&emsp;
-        <a href="https://socket.io/docs/v4/" title="SocketIO"><img src="https://skillicons.dev/icons?i=socketio" alt="SocketIO" width="40" height="40"/></a>&emsp;
+        <a href="https://socket.io/docs/v4/" title="SocketIO"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="SocketIO" /></a>&emsp;
         <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>&emsp;
     </div>
 </div>
